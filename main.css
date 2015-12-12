@@ -140,9 +140,6 @@ color:white;
 
 font-family: 'Open Sans Condensed', sans-serif;
 
-.bici{
-   margin-left :200px;
-}
 }
 
 ul{
@@ -156,8 +153,6 @@ font-family: 'Open Sans Condensed', sans-serif;
 
     font-family: 'Open Sans Condensed', sans-serif;
     color:#6B5195;
-    margin-left:200px;
-    <!--background:url("https://cloud.githubusercontent.com/assets/12517479/11762786/6c83ece2-a0b8-11e5-9941-b3f4d66fc513.jpg")-->
     }
 
 .list-group2 {
@@ -165,8 +160,6 @@ font-family: 'Open Sans Condensed', sans-serif;
  color:#6B5195;
 
 }
-
-
 
 .list-group-item-heading1{
 
