@@ -107,9 +107,9 @@ color:white;
 }
     
 .container{
-  padding: 20px;
+  padding: 0px;
   border: 1px solid white;
-  min-height: 600px;
+  min-height: 400px;
 }
 
 .jumbotron{
