@@ -97,7 +97,7 @@ textarea {
 
 body {
 
-    background: #000000 url("https://cloud.githubusercontent.com/assets/12517479/11762949/79a281c2-a0bd-11e5-8cc5-863e1fdaa739.jpg");
+    background: #000000 url("https://cloud.githubusercontent.com/assets/12517479/11792392/81126d78-a26b-11e5-9b2b-7f8dd859b6bc.png");
 }
 
 h2{
@@ -109,11 +109,11 @@ color:white;
 .container{
   padding: 0px;
   border: 1px solid white;
-  min-height: 400px;
+  min-height: 500px;
 }
 
 .jumbotron{
-    margin: 250px auto 0;
+    margin: 410px auto 0;
     background-color: #222222;
     color:white;
     font-family: 'Open Sans Condensed', sans-serif;
